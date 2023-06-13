@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+    }
+  
+  
+  header {
+    background-color: white;
+    padding: 10px;
+    color: rgb(8, 8, 8);
+  }
+  
+   div {
+    display: inline
+
+    
+  }
+  
+    ul {
+    margin: 0;
+    padding: 0;
+    text-align: right;
+  }
+  
+  ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  ul button {
+    background-color: rgb(17, 16, 16);
+    color: white;
+    border: none;
+   
+  }
+  button{
+    color: #000;
+    background-color: aliceblue;
+  }
+  
+   h3 {
+    color: #030303;
+  }
+  p{
+    color: #070707;
+    display: inline-block;
+    font-size: small;
+    font-style: italic;
+    padding: 0%;
+
+ }
